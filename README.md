@@ -1,5 +1,11 @@
-### Hi there 👋
-
+Helloo!
+ 🔭 I’m currently working on a lot of projects, I might die due to this.
+ 🌱 I’m currently learning more about frontend even if I am capabel of building powerful systems, ofcourse learning is continuous.
+ 👯 I’m looking to collaborate in any kind of project then I'm in.
+ 💬 Ask me about any programming related and I'll give what I can.
+ 📫 You can reach me through lariosaloigen5@gmail.com, and check otu my portfolio.
+ 😄 Pronouns: just call me gen.
+ ⚡ Fun fact: I never had fun since I get involve myself to IT industry.
 <!--
 **loigen/loigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
